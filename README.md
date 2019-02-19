@@ -3,6 +3,8 @@
 
 ![alt-text](https://github.com/Patrick-David/BitcoinBacktester/blob/master/ezgif.com-add-text(1).gif)
 
+[Code to accompany Medium post](https://medium.com/@pdquant/build-a-bitcoin-tegration-backtester-83e2b19125fd)
+
 Contains .py version for running in terminal with no charting
 and full jupyter notebbook .ipynb version with full analysis
 
